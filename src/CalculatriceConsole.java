@@ -63,7 +63,6 @@ public class CalculatriceConsole {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String[] operValides = {"+", "-", "*", "/"};
         double num1, num2;
         Operation oper;
         boolean continuer = true;
